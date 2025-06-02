@@ -59,4 +59,4 @@ To avoid misuse:
 
 **Samarth Varshney**
 
-Thank you for visiting the project! 😊
+Thank you for checking out this project! 😊
