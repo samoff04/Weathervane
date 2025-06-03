@@ -16,6 +16,7 @@ Weathervane is a beautifully animated weather web app that allows users to check
 ---
 
 ## Screenshot
+
 ![image](https://github.com/user-attachments/assets/e81cd9f2-71cb-4de2-9dc1-cb60b5df908e)
 ![image](https://github.com/user-attachments/assets/f9da9471-794c-4eb6-b8e3-6136981d1f34)
 ![image](https://github.com/user-attachments/assets/7b057955-3cb3-4167-a57e-3a656d9b6f9d)
@@ -23,6 +24,7 @@ Weathervane is a beautifully animated weather web app that allows users to check
 ![image](https://github.com/user-attachments/assets/27a3cf08-3efc-4aff-9ee2-fe4b9b1ff8bf)
 ![image](https://github.com/user-attachments/assets/5a8a4ef0-e3f5-41ef-ac92-3f8947989e7f)
 
+---
 
 ## Technologies Used
 
@@ -30,17 +32,6 @@ Weathervane is a beautifully animated weather web app that allows users to check
 - **CSS3** (including transitions & animations)
 - **JavaScript (Vanilla JS)**
 - **[WeatherAPI](https://www.weatherapi.com/)** – for fetching real-time weather data
-
----
-
-## Important Note
-
-This app uses client-side JavaScript and therefore **cannot securely hide your API key**.  
-To avoid misuse:
-
--  Never upload your **real API key** to public repositories.
--  Replace your key with a placeholder like `"YOUR_API_KEY_HERE"` before pushing code.
--  Each user should obtain their **own API key** from [WeatherAPI](https://www.weatherapi.com/) to use this app.
 
 ---
 
